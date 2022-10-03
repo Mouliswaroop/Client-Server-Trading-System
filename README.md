@@ -3,7 +3,7 @@ About Developed a client-server-based trading system facilitating ṭraders for 
 
 Steps to run the code
 
-1.Use linux and make sure that all the systems that are being used are connected to a single network.\n
+1.Use linux and make sure that all the systems that are being used are connected to a single network.
 
 2.Run Server on one system with command ./server ⟨server port⟩.
 3.Run Clients on other systems with command ./client ⟨server ip⟩ ⟨server port⟩.
