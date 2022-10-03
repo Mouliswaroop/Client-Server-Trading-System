@@ -13,32 +13,6 @@ Steps to run the code
 
 5.Follow the instructions printed on terminal properly to avoid errors during execution.
 
-
-Assignment Group 17 (Application 2 - Trading System) - by
-
---> Senapathi Akhila preethi(214101050)
---> Shambhavi Shanker(214101051)
---> Sherin Abraham(214101052)
-
-
-
-This application contains following files
---------------------------------------------------------
---> server.c - C code file for server
---> server.h - header file for server 
---> client.c - C code file for client
---> credentials.txt - contains login credentials (trader id, user name, password)
---> makefile - for compiling client and server code.
-
-
-Compiling files
---------------------------------------------------------
-For Server ::::::::
-make server
-
-For Client ::::::::
-make client
-
 Executing 
 --------------------------------------------------------
 For Server ::::::::
